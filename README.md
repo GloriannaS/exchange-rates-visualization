@@ -4,6 +4,6 @@ In this short project, we will work with a dataset describing Euro daily [exchan
 
 Our goal for this project is to represent the data we find in forms of effective explanatory data visualization. In doing so, we will illustrate the value of Data Visualization in analyzing large datasets.
 
-[![Exchange Rates Visualization](exchange-rates-graph.png)](https://colab.research.google.com/drive/1JDSrWtAdxt71Rg0N8dyXCQhkN1tqPwfh?usp=sharing)
+[![Exchange Rates Visualization](exchange-rates-graph-updated.png)](https://colab.research.google.com/drive/1JDSrWtAdxt71Rg0N8dyXCQhkN1tqPwfh?usp=sharing)
 
 View this project live on Google Colab [here](https://colab.research.google.com/drive/1JDSrWtAdxt71Rg0N8dyXCQhkN1tqPwfh?usp=sharing).
